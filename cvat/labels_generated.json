@@ -156,7 +156,7 @@
         ]
       },
       {
-        "name": "truncated",
+"name": "truncated",
         "mutable": false,
         "input_type": "select",
         "default_value": "no",
