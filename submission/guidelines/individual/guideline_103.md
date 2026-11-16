@@ -2,7 +2,7 @@
 
 - **Phiên bản:** v0.1 (Bản cá nhân)
 - **Ngày:** 2026-11-16
-- **Người viết:** Khưu Minh Phú
+- **Người viết:** Thành viên 103
 - **Phạm vi:** 40 ảnh data/images/img_001.jpg–img_040.jpg; Bounding box trong CVAT và xuất COCO 1.0.
 
 ---
