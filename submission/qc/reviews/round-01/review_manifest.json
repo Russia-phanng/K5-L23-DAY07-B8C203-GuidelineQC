@@ -2,8 +2,8 @@
   "round": 1,
   "mode": "full",
   "seed": null,
-  "labels_sha256": "3b3f7364b7e9b8a3c585c42ae2ca2c7e4ab8b3a85024f90d026693879872dcbe",
-  "batch_manifest_sha256": "f846b32f31e5b04ad768f3152a8c84bf5478fe5899354a49ee217305c5d2fae4",
-  "sample_sha256": "d70756eb015d552e458be6e7668f5de317eade1c7d97ba784142d18fb140648b",
-  "calibration_decisions_sha256": "d86e761eecb378db5c71ebc41d3e3f061786e2683b03d051b278917cac6c25b8"
+  "labels_sha256": "08f3b1014a0c6719669b8e4ebed9f3e34108ce504f40af1d0bb17ab36d3bca53",
+  "batch_manifest_sha256": "9121674f2d8fcf88672e1709ef04b53f206261b7489b26b2ab6a67404ddf7ab5",
+  "sample_sha256": "05e2a5c005ce1a212b66a9e9da5ecf9b334fe18dc5a2ff5c72799390c0a7fd15",
+  "calibration_decisions_sha256": "02a2690abbfec60dec1569bc1c0f1508343e94123f895a722d5c755216b83ddf"
 }

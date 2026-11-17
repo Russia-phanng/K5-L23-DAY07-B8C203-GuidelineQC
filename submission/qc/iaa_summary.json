@@ -15,10 +15,10 @@
     "submission\\taxonomy.json": "9cac32f7bb9472cc5f6bcfe92aaf21dbafa370a79413f54d0d4a19a6ab5b1e04",
     "submission\\guidelines\\guideline_v1.0_agreed.md": "18730b2984727b7c1a8cc87b0f648fd6f9bdd142863da1025619cbb149a9d371",
     "submission\\qc\\assignment.csv": "a55764c9c38c7ccc08a76c84c4c24182341bec0dca044bc8a73e544ffda1cd52",
-    "submission\\labels\\101.json": "5eeaa5d6150f1b2df0b8ab44da08dedfec5910c5f40857e138ff625b66940074",
-    "submission\\labels\\102.json": "bff6e5d7c782e86fb18078dddb738d464527f62d28df8f21f20dca09432acc7f",
-    "submission\\labels\\103.json": "3715e310792d0ef142e92dd6148d85295713c6cbfad17b6cb4edd1b247490205",
-    "submission\\labels\\104.json": "11ee067e082d57e8fb2cbf7109264f830dd85d4a578bd542daa1fe888693fc90",
+    "submission\\labels\\101.json": "677b4575836c3099ee781af8aacf7f33c37560e0f63abc5ceb0cc46587177062",
+    "submission\\labels\\102.json": "7d3cb72dea5265973ab19b78ec78e51ce91f200deb2ed6ebaec5ec2a071e1a29",
+    "submission\\labels\\103.json": "8010975c4947c889d4138af4c1e49c19ccbc453ca8adecd05ffc6daaeba0c328",
+    "submission\\labels\\104.json": "4e6814ce9e70fec3605cd0e0d084a52966925f5236c7a6a97da7a41b925be8e5",
     "data\\images\\img_001.jpg": "74b15d37b53d99d6cb8b3f7648d064ff89fedf0662df5ca1594c2c9c8454ba88",
     "data\\images\\img_002.jpg": "7cfa98eb24c504aa15496a82a714e28cc318447d77d0cb3881f91d649374d3de",
     "data\\images\\img_003.jpg": "8c2682682b89753bfa9de78b9dea93abb91937d2baed53fbf8c9fce6aa6a604a",
@@ -61,21 +61,21 @@
     "data\\images\\img_040.jpg": "e16ee9a3cfe6ea33457e7562b7f7d5bea9f63eee5cce42180ba25282dc004e95"
   },
   "artifacts": {
-    "consensus_draft.json": "733901362149148afe6739e8f07c44e8dc7ee7a3355e1760cb134d18a5882f48",
+    "consensus_draft.json": "381250b01c1aa01c1817c990e74876497e3fc02799e8d8fa5998bebdc37caee6",
     "flagged_images.txt": "4c0ea7761287344caadac03712b88d73384e8562a45b04430945d897e5c3a32a",
-    "calibration_candidates.csv": "8aff6afdc291ce2b6a90bd4e46e34b915f076a125156d71750a7b4aa86c0abe4"
+    "calibration_candidates.csv": "7d8e0ef8847ae0891fc66c10ba6e372118fbeb37e8328e493d1f46beff72abdc"
   },
   "overall": {
     "n_images": 40,
-    "n_matched_pairs": 193,
-    "n_unmatched_a": 178,
-    "n_unmatched_b": 53,
+    "n_matched_pairs": 192,
+    "n_unmatched_a": 179,
+    "n_unmatched_b": 56,
     "n_skipped_in_ignore": 9,
-    "mean_iou": 0.8437875308125802,
-    "class_agreement": 0.9844559585492227,
+    "mean_iou": 0.8427257616685502,
+    "class_agreement": 0.984375,
     "attr_agreement": {
-      "occluded_level": 0.6217616580310881,
-      "truncated": 0.8911917098445595
+      "occluded_level": 0.6197916666666666,
+      "truncated": 0.890625
     },
     "n_below_iou_thr": 73,
     "iou_pass": false,
@@ -89,7 +89,7 @@
       "n_unmatched_a": 3,
       "n_unmatched_b": 5,
       "n_skipped_in_ignore": 0,
-      "mean_iou": 0.8686717410944024,
+      "mean_iou": 0.8686693154779742,
       "class_agreement": 0.9583333333333334,
       "attr_agreement": {
         "occluded_level": 0.7916666666666666,
@@ -106,7 +106,7 @@
       "n_unmatched_a": 74,
       "n_unmatched_b": 7,
       "n_skipped_in_ignore": 9,
-      "mean_iou": 0.8541369825984467,
+      "mean_iou": 0.85414752890021,
       "class_agreement": 1.0,
       "attr_agreement": {
         "occluded_level": 0.6458333333333334,
@@ -123,7 +123,7 @@
       "n_unmatched_a": 14,
       "n_unmatched_b": 14,
       "n_skipped_in_ignore": 0,
-      "mean_iou": 0.8072132265601945,
+      "mean_iou": 0.8072573897315789,
       "class_agreement": 1.0,
       "attr_agreement": {
         "occluded_level": 0.5172413793103449,
@@ -140,7 +140,7 @@
       "n_unmatched_a": 26,
       "n_unmatched_b": 3,
       "n_skipped_in_ignore": 0,
-      "mean_iou": 0.8921651242950823,
+      "mean_iou": 0.8921715674926581,
       "class_agreement": 1.0,
       "attr_agreement": {
         "occluded_level": 0.4,
@@ -153,17 +153,17 @@
     },
     "102|104": {
       "n_images": 9,
-      "n_matched_pairs": 47,
-      "n_unmatched_a": 57,
+      "n_matched_pairs": 46,
+      "n_unmatched_a": 58,
       "n_unmatched_b": 8,
       "n_skipped_in_ignore": 0,
-      "mean_iou": 0.8176797668725059,
+      "mean_iou": 0.8224218345909694,
       "class_agreement": 1.0,
       "attr_agreement": {
-        "occluded_level": 0.7659574468085106,
-        "truncated": 0.9148936170212766
+        "occluded_level": 0.7608695652173914,
+        "truncated": 0.9347826086956522
       },
-      "n_below_iou_thr": 22,
+      "n_below_iou_thr": 21,
       "iou_pass": false,
       "class_pass": true,
       "pass": false
@@ -172,27 +172,26 @@
       "n_images": 6,
       "n_matched_pairs": 20,
       "n_unmatched_a": 4,
-      "n_unmatched_b": 16,
+      "n_unmatched_b": 19,
       "n_skipped_in_ignore": 0,
-      "mean_iou": 0.8430017887603155,
+      "mean_iou": 0.8205021700481627,
       "class_agreement": 0.9,
       "attr_agreement": {
         "occluded_level": 0.45,
-        "truncated": 0.95
+        "truncated": 0.9
       },
-      "n_below_iou_thr": 7,
+      "n_below_iou_thr": 8,
       "iou_pass": false,
       "class_pass": false,
       "pass": false
     }
   },
-  "n_issues": 478,
+  "n_issues": 425,
   "issues_by_type": {
     "iou_thap": 73,
-    "sai_thuoc_tinh": 84,
-    "bo_sot_thua": 134,
-    "co_can_review": 56,
-    "bat_dong_ignore": 128,
+    "sai_thuoc_tinh": 83,
+    "bo_sot_thua": 136,
+    "bat_dong_ignore": 130,
     "sai_lop": 3
   },
   "n_flagged_images": 34
