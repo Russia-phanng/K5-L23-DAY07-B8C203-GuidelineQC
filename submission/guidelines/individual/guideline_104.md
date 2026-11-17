@@ -2,7 +2,7 @@
 
 - Phiên bản: v0.1 (bản cá nhân, Pha 1, viết độc lập trước họp nhóm)
 - Ngày: 2026-11-16
-- Người viết: 101 (mã giả định — đổi lại cho đúng mã được cấp trong TEAM.md)
+- Người viết: 104
 - Cơ sở: đã xem cả 40 ảnh `img_001`–`img_040`, chưa vẽ nhãn.
 
 ## 1. Mục tiêu
